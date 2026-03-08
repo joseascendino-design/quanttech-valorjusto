@@ -449,7 +449,7 @@ body::before{content:'';position:fixed;inset:0;pointer-events:none;z-index:0;
 
     <div class="brand-row">
       <div class="brand-text">
-        <div class="brand-quant"><span class="brand-star">⚛️</span> QUANTTECH SYSTEM <span class="brand-trading">[Trading Solutions]</span></div>
+        <div class="brand-quant"><span class="brand-star">⚛️</span> QUANTTECH SYSTEM <span class="brand-trading">[Investment Solutions]</span></div>
         <div class="brand-title">Valor<em>Justo</em></div>
       </div>
     </div>
